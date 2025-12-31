@@ -1,1 +1,2 @@
-FROM 
+FROM rust:slim-bullseye
+
